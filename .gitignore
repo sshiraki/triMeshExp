@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+.env
+.venv/
+
+.vscode/
+output/
+filememory/
+
+# Python
+.ipynb_checkpoints/
+
+# emacs
+*~
+
+# for package
+src/slashgpt/manifests/
+src/slashgpt/resources/
+src/slashgpt/test/
+
+run*.sh
